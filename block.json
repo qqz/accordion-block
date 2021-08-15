@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "aspire-accordion/accordion-block",
+	"version": "1.0.0",
+	"title": "Accordion Block",
+	"category": "widgets",
+	"icon": "arrow-down",
+	"description": "Expandable/collapsible accordion",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "accordion-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
